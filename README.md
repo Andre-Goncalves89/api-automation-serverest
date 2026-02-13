@@ -15,6 +15,7 @@ Este projeto apresenta uma suíte de testes automatizados para o fluxo completo 
 * **GET:** Validação se o usuário criado persiste corretamente na base (Status 200).
 * **PUT:** Atualização de dados cadastrais e validação da mensagem de sucesso (Status 200).
 * **DELETE:** Remoção do usuário e verificação da limpeza da base (Status 200).
+* **POST (Negative):** Validação de erro ao tentar cadastrar e-mail duplicado (Status 400).
 
 ### 🚀 Como utilizar:
 
