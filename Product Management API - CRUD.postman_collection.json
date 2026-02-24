@@ -316,6 +316,7 @@
   "variable": [
     {
       "key": "baseUrl",
+<<<<<<< HEAD
       "value": "https://serverest.dev"
     },
     {
@@ -337,6 +338,29 @@
     {
       "key": "newUserName",
       "value": "Kristin Purdy"
+=======
+      "value": ""
+    },
+    {
+      "key": "userName",
+      "value": ""
+    },
+    {
+      "key": "userEmail",
+      "value": ""
+    },
+    {
+      "key": "userPassword",
+      "value": ""
+    },
+    {
+      "key": "userID",
+      "value": ""
+    },
+    {
+      "key": "newUserName",
+      "value": ""
+>>>>>>> 3fc98883d3ffaa4ffe506a7b0d49c05eee4dbab9
     }
   ]
 }
